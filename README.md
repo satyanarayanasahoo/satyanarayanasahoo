@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyanarayanasahoo
 - 👀 I’m interested in frontend web devlopment.
-- 🌱 I’m currently learning recat js.
+- 🌱 I’m currently learning react js.
 - 💞️ I’m looking to collaborate on google.
 - 📫 How to reach me satyasahoo705@gmail.com
 
